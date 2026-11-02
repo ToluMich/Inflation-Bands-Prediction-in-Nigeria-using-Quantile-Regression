@@ -1,0 +1,5 @@
+Metric,Value
+Target coverage,80.00%
+Test forecast months,35
+Forecasts inside band,9
+Empirical coverage,25.71%
