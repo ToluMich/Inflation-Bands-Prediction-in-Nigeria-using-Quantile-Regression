@@ -165,4 +165,3 @@ plt.show()
 
 print(f"Predictions: {BASE_DIR / 'next_month_inflation_predictions.csv'}")
 print(f"Coverage table: {BASE_DIR / 'quantile_regression_coverage.csv'}")
-print(f"Plot: {BASE_DIR / 'nigeria_inflation_quantile_bands.png'}")
